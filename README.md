@@ -6,9 +6,6 @@ Web Analyzer is an interactive tool that extracts, summarizes, and answers quest
 This project is ideal for researchers, students, or professionals who want to quickly understand web content without reading the full page.
 
 ⚡ Features
-
-Website Summarization: Automatically generates concise summaries of web pages.
-
 Question Answering: Ask questions about the website content and get instant answers.
 
 Interactive Interface: Built with Gradio for an easy-to-use web UI.
@@ -17,7 +14,7 @@ Supports Any Website: Works with any publicly accessible webpage using Beautiful
 
 🛠 Tech Stack
 
-Python 3.12+
+Python 3.10+
 
 Transformers (Hugging Face) – BERT-based Question Answering
 
@@ -47,10 +44,6 @@ The Gradio interface will open in your browser.
 
 Enter a website URL, then either summarize or ask questions about the content.
 
-🖼 Example
-
-
-(Add a clear screenshot or GIF of your app in action.)
 
 💡 How it Works
 
